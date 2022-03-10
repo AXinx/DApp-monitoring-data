@@ -10,6 +10,5 @@ We label anomalies when the transaction failure number is not zero, which can be
 
 # Public datasets
 
-1. Vichalana Anomaly Benchmark: https://github.com/Vichalana/vichalana-anomaly-benchmark.git
+Vichalana Anomaly Benchmark: https://github.com/Vichalana/vichalana-anomaly-benchmark.git
 
-2. DOMI_dataset: https://github.com/NetManAIOps/DOMI_dataset.git
