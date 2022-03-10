@@ -8,3 +8,8 @@ We keep monitoring the DApp and collect data every 15 seconds, resulting in 7426
 In addition, a metric that represents the number of transaction failures can be seen as the anomaly indicator of the DApp. 
 We label anomalies when the transaction failure number is not zero, which can be seen in the table. 
 
+# Public datasets
+
+1. Vichalana Anomaly Benchmark: https://github.com/Vichalana/vichalana-anomaly-benchmark.git
+
+2. DOMI_dataset: https://github.com/NetManAIOps/DOMI_dataset.git
